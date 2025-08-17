@@ -1,0 +1,5 @@
+return {
+	cmp = {
+		preset = 'default'
+	}
+}
