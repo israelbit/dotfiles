@@ -43,6 +43,18 @@
               {
                 "type": "command",
                 "data": {
+                  "command": "/home/gh0st/Applications/lektra-0.7.2-x86_64.AppImage",
+                  "detached": true,
+                  "isolated": false,
+                  "delayed": false
+                },
+                "name": "Lektra",
+                "icon": "bookstack",
+                "iconTheme": "simple-icons"
+              },
+              {
+                "type": "command",
+                "data": {
                   "command": "kitty nvim"
                 },
                 "name": "Neovim",
@@ -368,6 +380,18 @@
                 "quickSelectKey": "M"
               }
             ]
+          },
+          {
+            "type": "command",
+            "data": {
+              "command": "",
+              "detached": true,
+              "isolated": false,
+              "delayed": false
+            },
+            "name": "Executar Comando",
+            "icon": "command-item.svg",
+            "iconTheme": "kando"
           }
         ]
       },

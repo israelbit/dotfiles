@@ -1,0 +1,24 @@
+[page]
+bg = "#232A2E"
+fg = "#D3C6AA"
+
+[window]
+bg = "#232A2E"
+menubar = false 
+
+[synctex]
+enabled = true
+
+[search]
+match_color = "#E69875"
+index_color = "#7FDBCA"
+highlight_matches = true 
+progressive = true
+
+[statusbar.component.filename]
+show = true 
+full_path = false 
+
+[statusbar.component.mode]
+icon = true
+
